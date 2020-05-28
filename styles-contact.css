@@ -60,7 +60,7 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background-image: url("./images/nachobackground.jpg");
+  background-image: url("images/nachobackground.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -85,7 +85,7 @@ html, body {
 }
 
 h1 {
-	font-family: 'Comfortaa', cursive;
+	font-family:'Staatliches', cursive;
 	font-size: 3em;
     margin: 0px auto 10px auto;
 	color: rgb(253, 6, 6);
@@ -94,7 +94,7 @@ h1 {
 }
 
 h2 {
-	font-family: 'Comfortaa', cursive;
+	font-family:'Staatliches', cursive;
 	font-size: 1.5em;
     line-height: 1.4;
     color: #fff;
@@ -103,13 +103,13 @@ h2 {
 }
 
 p {
-	font-family: 'Comfortaa', cursive;
+	font-family:'Staatliches', cursive;
 	font-size: 1.2em;
     line-height: 1.6;
     color: #fff;
 }
   nav{ 
-	font-family: 'Comfortaa', cursive; 
+	font-family:'Monoton', regular; 
 	font-size: 1.2em; 
 	width: 400px; 
 	margin: 0 auto; 
